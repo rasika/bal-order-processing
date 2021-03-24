@@ -1,0 +1,7 @@
+id, orderTime, supplier, customer, description, qty
+1, 2021:03:24 13:31, Kamal, Nimal, BMW 320d 2020, 3
+2, 2021:03:24 13:31, Kamal, Nimal, Audi A6 2020, 10
+3, 2021:03:24 13:31, Kamal, Nimal, Peugeot 3008, 1
+4, 2021:03:24 13:31, Kamal, Nimal, Toyota Allion 2015, 4
+5, 2021:03:24 13:31, Kamal, Nimal, Toyota Prado 120 2007, 3
+6, 2021:03:24 13:31, Kamal, Nimal, Suzuki Alto 800, 10

@@ -1,1 +1,4 @@
 target/
+db/
+ballerina-internal.log
+.vscode
